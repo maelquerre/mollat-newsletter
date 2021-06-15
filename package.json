@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "node src/build.js && mjml src/index.mjml -o build/index.html",
+    "watch": "npm run build -- -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mjml": "^4.9.3"
+  }
+}
