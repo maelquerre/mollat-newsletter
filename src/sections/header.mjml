@@ -1,0 +1,21 @@
+<mj-section padding-top="20px">
+  <mj-column>
+    <mj-button href="https://www.google.com/" background-color="white" color="#717171" text-decoration="underline" font-size="10px">Ouvrir le mail dans un navigateur</mj-button>
+  </mj-column>
+</mj-section>
+<mj-section padding-top="40px">
+  <mj-column>
+    <mj-image src="https://www.mollat.com/Content/Img/Layout/logo.png" width="80px" />
+  </mj-column>
+</mj-section>
+<mj-section padding-top="40px">
+  <mj-column>
+    <mj-navbar base-url="https://mjml.io" ico-color="#ffffff">
+      <mj-navbar-link href="/one">Coups de cœur</mj-navbar-link>
+      <mj-navbar-link href="/two">Sélection</mj-navbar-link>
+      <mj-navbar-link href="/three">Dossiers</mj-navbar-link>
+      <mj-navbar-link href="/four">Rencontres</mj-navbar-link>
+      <mj-navbar-link href="/five">Évènements</mj-navbar-link>
+    </mj-navbar>
+  </mj-column>
+</mj-section>
