@@ -1,0 +1,75 @@
+<mj-wrapper padding="42px 124px 44px" background-color="#FFFFFF">
+  <mj-section>
+    <mj-column>
+      <mj-text mj-class="section-title" padding-bottom="20px">
+        Les conseils de nos libraires
+      </mj-text>
+    </mj-column>
+  </mj-section>
+  <mj-section>
+    <mj-column width="50%" padding-right="15px">
+      <mj-image
+        padding-bottom="20px"
+        src="https://mollatcommon.blob.core.windows.net/media/banniere-trone-de-fer.jpg"
+      />
+      <mj-divider
+        border-color="#001689"
+        width="50%"
+        align="left"
+        padding="0"
+      ></mj-divider>
+      <mj-text mj-class="book-title" padding-top="10px">
+        Escape game géant Trône de fer le dimanche 6 juin 2021
+      </mj-text>
+      <mj-text mj-class="paragraph">
+        Venez explorer le royaume des sept couronnes et partez à la conquête du
+        trône de fer lors de l'Escape Game...
+      </mj-text>
+      <mj-table padding-top="12px" font-size="12px">
+        <tr>
+          <td style="font-weight: 300">20/02/21</td>
+          <td style="text-align: right">
+            <a
+              href="https://www.mollat.com/livres/2477580/manon-gauthier-les-pieces-manquantes"
+              style="font-weight: 700; color: #001689; text-decoration: none"
+            >
+              Lire
+            </a>
+          </td>
+        </tr>
+      </mj-table>
+    </mj-column>
+    <mj-column width="50%" padding-left="15px" padding-top="76px">
+      <mj-image
+        padding-bottom="20px"
+        src="https://mollatcommon.blob.core.windows.net/media/chat-deambule.jpg"
+      />
+      <mj-divider
+        border-color="#001689"
+        width="50%"
+        align="left"
+        padding="0"
+      ></mj-divider>
+      <mj-text mj-class="book-title" padding-top="10px">
+        "Le Chat déambule" à Bordeaux ... et chez Mollat
+      </mj-text>
+      <mj-text mj-class="paragraph">
+        A partir du 17 juin, et pour tout l’été, la ville de Bordeaux
+        accueillera la collection de statues du fameux Chat de Philippe...
+      </mj-text>
+      <mj-table padding-top="12px" font-size="12px">
+        <tr>
+          <td style="font-weight: 300">01/06/2021</td>
+          <td style="text-align: right">
+            <a
+              href="https://www.mollat.com/livres/2477580/manon-gauthier-les-pieces-manquantes"
+              style="font-weight: 700; color: #001689; text-decoration: none"
+            >
+              Lire
+            </a>
+          </td>
+        </tr>
+      </mj-table>
+    </mj-column>
+  </mj-section>
+</mj-wrapper>
