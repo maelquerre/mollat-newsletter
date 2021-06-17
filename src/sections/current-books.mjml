@@ -161,6 +161,7 @@
       <mj-button
         mj-class="cta-button"
         width="100%"
+        href="https://www.mollat.com"
       >
         Découvrir notre sélection
       </mj-button>
