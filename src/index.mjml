@@ -28,6 +28,12 @@
         color="#282828"
       />
       <mj-class
+        name="cta-button"
+        color="#ffffff"
+        background-color="#001689"
+        border-radius="6px"
+      />
+      <mj-class
         name="demi-separator"
         background-color="#282828"
         height="2px"
@@ -77,6 +83,7 @@
       />
       <mj-wrapper
         full-width="full-width"
+        padding="0"
       />
     </mj-attributes>
 
@@ -94,5 +101,6 @@
     <mj-include path="./sections/hello.mjml" />
     <mj-include path="./sections/loved-books.mjml" />
     <mj-include path="./sections/shifted-cards.mjml" />
+    <mj-include path="./sections/current-books.mjml" />
   </mj-body>
 </mjml>

@@ -1,0 +1,169 @@
+<mj-wrapper
+  padding-top="64px"
+  padding-bottom="64px"
+  background-color="#ffffff"
+>
+  <mj-section>
+    <mj-column>
+      <mj-text 
+        mj-class="section-title"
+        padding-bottom="20px"
+      >
+        Nos livres au cœur de l'actu
+      </mj-text>
+    </mj-column>
+  </mj-section>
+
+  <mj-section>
+    <mj-column width="40%">
+      <mj-image
+        align="left"
+        padding-right="20px"
+        padding-bottom="20px"
+        src="https://mollatcommon.blob.core.windows.net/notices57/2522264_medium.jpg"
+      />
+    </mj-column>
+    <mj-column width="60%">
+      <mj-text mj-class="book-title">
+        Fait maison : 45 recettes du quotidien, rapides & faciles
+      </mj-text>
+      <mj-text mj-class="paragraph">
+        45 recettes faciles, salées et sucrées : velouté de potimarron aux
+        amandes, asperges vertes caramélisées au miso, moules gratinées, tartiflette...
+      </mj-text>
+      <mj-table padding-top="12px" font-size="12px">
+        <tr>
+          <td style="font-weight: 300">
+            12,90&euro;
+          </td>
+          <td style="text-align: right">
+            <a
+              class="book-link"
+              href="https://www.mollat.com/livres/2522264/cyril-lignac-fait-maison-45-recettes-du-quotidien-rapides-et-faciles-volume-4"
+            >
+              Découvrir
+            </a>
+          </td>
+        </tr>
+      </mj-table>
+    </mj-column>
+  </mj-section>
+
+  <mj-section padding-top="36px">
+    <mj-column width="40%">
+      <mj-image
+        align="left"
+        padding-right="20px"
+        padding-bottom="20px"
+        src="https://mollatcommon.blob.core.windows.net/notices57/2525351_medium.jpg"
+      />
+    </mj-column>
+    <mj-column width="60%">
+      <mj-text mj-class="book-title">
+        La plus-que-vraie de Alexandre Jardin
+      </mj-text>
+      <mj-text mj-class="paragraph">
+        Romancier, Frédéric Sauvage invente des histoires d'amour aux
+        personnages imprévisibles. Mais son existence reste morne jusqu'à ce...
+      </mj-text>
+      <mj-table padding-top="12px" font-size="12px">
+        <tr>
+          <td style="font-weight: 300">
+            19,90&euro;
+          </td>
+          <td style="text-align: right">
+            <a
+              class="book-link"
+              href="https://www.mollat.com/livres/2525351/alexandre-jardin-la-plus-que-vraie"
+            >
+              Découvrir
+            </a>
+          </td>
+        </tr>
+      </mj-table>
+    </mj-column>
+  </mj-section>
+
+  <mj-section padding-top="36px">
+    <mj-column width="40%">
+      <mj-image
+        align="left"
+        padding-right="20px"
+        padding-bottom="20px"
+        src="https://mollatcommon.blob.core.windows.net/notices57/2541447_medium.jpg"
+      />
+    </mj-column>
+    <mj-column width="60%">
+      <mj-text mj-class="book-title">
+        Les cahiers d'Esther. Volume 6, Histoires de mes 15 ans
+      </mj-text>
+      <mj-text mj-class="paragraph">
+        La suite du récit de la vie quotidienne d’une jeune fille
+        d’aujourd’hui : son école, ses amis, sa famille, ses idoles et sa
+        vision de la société...
+      </mj-text>
+      <mj-table padding-top="12px" font-size="12px">
+        <tr>
+          <td style="font-weight: 300">
+            16,90&euro;
+          </td>
+          <td style="text-align: right">
+            <a
+              class="book-link"
+              href="https://www.mollat.com/livres/2541447/riad-sattouf-les-cahiers-d-esther-volume-6-histoires-de-mes-15-ans"
+            >
+              Découvrir
+            </a>
+          </td>
+        </tr>
+      </mj-table>
+    </mj-column>
+  </mj-section>
+
+  <mj-section padding-top="36px">
+    <mj-column width="40%">
+      <mj-image
+        align="left"
+        padding-right="20px"
+        padding-bottom="20px"
+        src="https://mollatcommon.blob.core.windows.net/notices57/2532474_medium.jpg"
+      />
+    </mj-column>
+    <mj-column width="60%">
+      <mj-text mj-class="book-title">
+        Aké, les années d'enfance - Wole Soyinka
+      </mj-text>
+      <mj-text mj-class="paragraph">
+        L'autobiographie du grand écrivain nigérian, prix Nobel de
+        littérature en 1986. Titre prescrit d'une des oeuvres pour les
+        classes...
+      </mj-text>
+      <mj-table padding-top="12px" font-size="12px">
+        <tr>
+          <td style="font-weight: 300">
+            10,90&euro;
+          </td>
+          <td style="text-align: right">
+            <a
+              class="book-link"
+              href="https://www.mollat.com/livres/2532474/wole-soyinka-ake-les-annees-d-enfance"
+            >
+              Découvrir
+            </a>
+          </td>
+        </tr>
+      </mj-table>
+    </mj-column>
+  </mj-section>
+
+  <mj-section padding-top="42px">
+    <mj-column width="100%">
+      <mj-button
+        mj-class="cta-button"
+        width="100%"
+      >
+        Découvrir notre sélection
+      </mj-button>
+    </mj-column>
+  </mj-section>
+</mj-wrapper>

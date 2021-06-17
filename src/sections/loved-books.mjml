@@ -33,7 +33,9 @@
       </mj-text>
       <mj-table padding-top="12px" font-size="12px">
         <tr>
-          <td style="font-weight: 300">19,00&euro;</td>
+          <td style="font-weight: 300">
+            19,00&euro;
+          </td>
           <td style="text-align: right">
             <a
               class="book-link"
@@ -78,7 +80,9 @@
       </mj-text>
       <mj-table padding-top="12px" font-size="12px">
         <tr>
-          <td style="font-weight: 300">23,00&euro;</td>
+          <td style="font-weight: 300">
+            23,00&euro;
+          </td>
           <td style="text-align: right">
             <a
               class="book-link"
