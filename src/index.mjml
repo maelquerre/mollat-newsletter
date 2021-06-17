@@ -65,11 +65,17 @@
         color="#001689"
         padding="6px 12px"
       />
-      <mj-section padding="0 16px" />
+      <mj-section
+        full-width="full-width"
+        padding="0 16px"
+      />
       <mj-table padding="0" />
       <mj-text
         padding="0"
         line-height="1.3"
+      />
+      <mj-wrapper
+        full-width="full-width"
       />
     </mj-attributes>
   </mj-head>

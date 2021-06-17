@@ -1,6 +1,5 @@
 <mj-wrapper
-  full-width="full-width"
-  background-color="#FFFFFF"
+  background-color="#ffffff"
 >
   <mj-section 
     padding-top="20px"

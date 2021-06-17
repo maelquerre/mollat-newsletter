@@ -1,4 +1,7 @@
-<mj-wrapper padding="42px 124px 44px" background-color="#FFFFFF">
+<mj-wrapper
+  padding="42px 0 44px"
+  background-color="#ffffff"
+>
   <mj-section>
     <mj-column>
       <mj-text mj-class="section-title" padding-bottom="20px">
@@ -9,6 +12,7 @@
   <mj-section>
     <mj-column width="50%" padding-right="15px">
       <mj-image
+        align="left"
         padding-bottom="20px"
         src="https://mollatcommon.blob.core.windows.net/media/banniere-trone-de-fer.jpg"
       />
@@ -41,6 +45,7 @@
     </mj-column>
     <mj-column width="50%" padding-left="15px" padding-top="76px">
       <mj-image
+        align="left"
         padding-bottom="20px"
         src="https://mollatcommon.blob.core.windows.net/media/chat-deambule.jpg"
       />
