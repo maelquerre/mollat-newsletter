@@ -12,6 +12,7 @@
       name="Nothing You Could Do"
       href="https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do"
     />
+
     <mj-attributes>
       <mj-all
         font-family="Lato, sans-serif"
@@ -78,6 +79,14 @@
         full-width="full-width"
       />
     </mj-attributes>
+
+    <mj-style inline="inline">
+      .book-link {
+        font-weight: 700;
+        color: #001689;
+        text-decoration: none;
+      }
+    </mj-style>
   </mj-head>
 
   <mj-body width="352px">

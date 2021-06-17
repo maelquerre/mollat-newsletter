@@ -34,8 +34,8 @@
           <td style="font-weight: 300">20/02/21</td>
           <td style="text-align: right">
             <a
+              class="book-link"
               href="https://www.mollat.com/livres/2477580/manon-gauthier-les-pieces-manquantes"
-              style="font-weight: 700; color: #001689; text-decoration: none"
             >
               Lire
             </a>
@@ -67,8 +67,8 @@
           <td style="font-weight: 300">01/06/2021</td>
           <td style="text-align: right">
             <a
+              class="book-link"
               href="https://www.mollat.com/livres/2477580/manon-gauthier-les-pieces-manquantes"
-              style="font-weight: 700; color: #001689; text-decoration: none"
             >
               Lire
             </a>
