@@ -6,5 +6,8 @@
   },
   "dependencies": {
     "mjml": "^4.9.3"
+  },
+  "devDependencies": {
+    "fs-extra": "^10.0.0"
   }
 }

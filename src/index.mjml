@@ -27,6 +27,12 @@
         color="#282828"
       />
       <mj-class
+        name="demi-separator"
+        background-color="#282828"
+        height="2px"
+        width="57px"
+      />
+      <mj-class
         name="paragraph"
         color="#595959"
       />
@@ -72,5 +78,6 @@
     <mj-include path="./sections/header.mjml" />
     <mj-include path="./sections/hello.mjml" />
     <mj-include path="./sections/loved-books.mjml" />
+    <mj-include path="./sections/shifted-cards.mjml" />
   </mj-body>
 </mjml>
