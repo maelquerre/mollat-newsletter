@@ -1,0 +1,35 @@
+<mj-wrapper
+  padding-top="48px"
+  padding-bottom="48px"
+  background-color="#ffffff"
+>
+  <mj-section>
+    <mj-column width="100%">
+      <mj-text 
+        mj-class="section-title"
+        padding-bottom="20px"
+      >
+        Merci {{ name }}
+      </mj-text>
+    </mj-column>
+
+    <mj-column
+      width="100%"
+      padding-bottom="20px"
+    >
+      <mj-text mj-class="paragraph">
+        Nous espérons que notre sélection de livres vous séduira et que vous
+        découvrirez de nouvelles pépites à dévorer sur la plage.
+      </mj-text>
+    </mj-column>
+
+    <mj-column width="100%">
+      <mj-image
+        align="left"
+        alt="L'équipe Mollat"
+        src="./assets/images/signature.png"
+        width="150px"
+      />
+    </mj-column>
+  </mj-section>
+</mj-wrapper>

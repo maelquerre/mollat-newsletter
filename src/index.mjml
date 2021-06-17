@@ -84,5 +84,7 @@
     <mj-include path="./sections/shifted-cards.mjml" />
     <mj-include path="./sections/separator.mjml" />
     <mj-include path="./sections/current-books.mjml" />
+    <mj-include path="./sections/separator.mjml" />
+    <mj-include path="./sections/thanks.mjml" />
   </mj-body>
 </mjml>
