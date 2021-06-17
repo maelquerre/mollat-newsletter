@@ -58,6 +58,7 @@
 
   <mj-body>
     <mj-include path="./sections/header.mjml" />
+    <mj-include path="./sections/hello.mjml" />
     <mj-include path="./sections/loved-books.mjml" />
   </mj-body>
 </mjml>

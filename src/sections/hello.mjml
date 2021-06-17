@@ -1,0 +1,14 @@
+<mj-wrapper background-color="#FFFFFF">
+  <mj-section padding="48px 124px">
+    <mj-column>
+      <mj-text mj-class="section-title" padding-bottom="20px">
+        Bonjour {{ name }},
+      </mj-text>
+      <mj-text mj-class="paragraph">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+        veniam.
+      </mj-text>
+    </mj-column>
+  </mj-section>
+</mj-wrapper>
