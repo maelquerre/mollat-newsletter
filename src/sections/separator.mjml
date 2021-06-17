@@ -1,5 +1,5 @@
 <mj-wrapper background-color="#FFFFFF">
-  <mj-section padding="0 124px">
+  <mj-section>
     <mj-column>
       <mj-image src="./assets/images/separator.png" />
     </mj-column>
