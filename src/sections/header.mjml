@@ -1,15 +1,21 @@
-<mj-wrapper background-color="#FFFFFF">
-  <mj-section padding-top="20px">
+<mj-wrapper
+  full-width="full-width"
+  background-color="#FFFFFF"
+>
+  <mj-section 
+    padding-top="20px"
+  >
     <mj-column>
       <mj-button
         href="https://www.google.com/"
-        background-color="white"
-        color="#717171"
-        text-decoration="underline"
+        inner-padding="0"
         font-size="10px"
+        color="#717171"
+        background-color="#ffffff"
+        text-decoration="underline"
       >
-        Ouvrir le mail dans un navigateur</mj-button
-      >
+        Ouvrir le mail dans un navigateur
+      </mj-button>
     </mj-column>
   </mj-section>
 
@@ -22,7 +28,7 @@
     </mj-column>
   </mj-section>
 
-  <mj-section padding-top="40px">
+  <mj-section padding="40px 0 0">
     <mj-column>
       <mj-navbar base-url="" ico-color="#001689">
         <mj-navbar-link href="#coups-de-coeur">Coups de coeur</mj-navbar-link>
