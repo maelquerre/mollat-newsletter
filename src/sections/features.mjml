@@ -1,0 +1,57 @@
+ <mj-section
+  padding-top="32px"
+  padding-bottom="32px"
+  background-color="#f1f1f1"
+>
+  <mj-column 
+    width="33.33%"
+    padding="16px 8px"
+  >
+    <mj-image
+      src="./assets/images/france.png"
+      width="60px"
+    />
+    <mj-text
+      align="center"
+      padding-top="12px"
+      color="#282828"
+      font-weight="700"
+    >
+      1re librairie de France
+    </mj-text>
+  </mj-column>
+  <mj-column 
+    width="33.33%"
+    padding="16px 8px"
+  >
+    <mj-image
+      src="./assets/images/delivery.png"
+      width="60px"
+    />
+    <mj-text
+      align="center"
+      padding-top="12px"
+      color="#282828"
+      font-weight="700"
+    >
+      Livraison express
+    </mj-text>
+  </mj-column>
+  <mj-column 
+    width="33.33%"
+    padding="16px 8px"
+  >
+    <mj-image
+      src="./assets/images/collect.png"
+      width="60px"
+    />
+    <mj-text
+      align="center"
+      padding-top="12px"
+      color="#282828"
+      font-weight="700"
+    >
+      Click and collect
+    </mj-text>
+  </mj-column>
+</mj-section>
