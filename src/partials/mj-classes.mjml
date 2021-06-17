@@ -1,0 +1,43 @@
+<mj-class
+  name="book-title"
+  padding-bottom="10px"
+  font-size="16px"
+  font-weight="700"
+  color="#282828"
+/>
+<mj-class
+  name="cta-button"
+  color="#ffffff"
+  background-color="#001689"
+  border-radius="6px"
+/>
+<mj-class
+  name="demi-separator"
+  background-color="#282828"
+  height="2px"
+  width="57px"
+/>
+<mj-class
+  name="paragraph"
+  color="#595959"
+/>
+<mj-class
+  name="quote-column"
+  padding="20px 32px"
+  text-align="center"
+  background-color="#ffffff"
+  border-radius="6px"
+/>
+<mj-class
+  name="quote-text"
+  align="center"
+  font-family="Nothing You Could Do, sans-serif"
+  color="#001689"
+/>
+<mj-class
+  name="section-title"
+  font-family="Oswald, sans-serif"
+  font-size="18px"
+  font-weight="700"
+  color="#001689"
+/>
