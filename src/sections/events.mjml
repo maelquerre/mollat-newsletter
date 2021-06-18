@@ -1,0 +1,77 @@
+<mj-wrapper padding-top="40px" padding-bottom="64px" background-color="#ffffff">
+  <mj-section>
+    <mj-column>
+      <mj-text mj-class="section-title" padding-bottom="20px">
+        Nos évènements
+      </mj-text>
+    </mj-column>
+  </mj-section>
+  <mj-section>
+    <mj-column width="50%" padding-right="15px">
+      <mj-image
+        align="left"
+        padding-bottom="20px"
+        src="https://mollatcommon.blob.core.windows.net/notices57/2523629_medium.jpg"
+      />
+      <mj-divider
+        border-color="#001689"
+        width="50%"
+        align="left"
+        padding="0"
+      ></mj-divider>
+      <mj-text mj-class="book-title" padding-top="10px">
+        Dédicace d’Eve Cambreleng
+      </mj-text>
+      <mj-text mj-class="paragraph">
+        Venez rencontrer Eve Cambreleng lors d'une séance de dédicace de sa
+        bande dessinée "A corps et à cris : la révolution...
+      </mj-text>
+      <mj-table padding-top="12px" font-size="12px">
+        <tr>
+          <td style="font-weight: 300">23/06/2021</td>
+          <td style="text-align: right">
+            <a
+              class="book-link"
+              href="https://www.mollat.com/evenements/dedicace-d-eve-cambreleng"
+            >
+              Voir
+            </a>
+          </td>
+        </tr>
+      </mj-table>
+    </mj-column>
+    <mj-column width="50%" padding-left="15px" padding-top="76px">
+      <mj-image
+        align="left"
+        padding-bottom="20px"
+        src="https://mollatcommon.blob.core.windows.net/notices57/2507729_medium.jpg"
+      />
+      <mj-divider
+        border-color="#001689"
+        width="50%"
+        align="left"
+        padding="0"
+      ></mj-divider>
+      <mj-text mj-class="book-title" padding-top="10px">
+        Dédicace de Sandrine Revel & Théa Rojzman
+      </mj-text>
+      <mj-text mj-class="paragraph">
+        A partir du 17 juin, et pour tout l’été, la ville de Bordeaux
+        accueillera la collection de statues du fameux Chat de Philippe...
+      </mj-text>
+      <mj-table padding-top="12px" font-size="12px">
+        <tr>
+          <td style="font-weight: 300">01/06/2021</td>
+          <td style="text-align: right">
+            <a
+              class="book-link"
+              href="https://www.mollat.com/evenements/dedicace-de-sandrine-revel-et-thea-rojzman"
+            >
+              Voir
+            </a>
+          </td>
+        </tr>
+      </mj-table>
+    </mj-column>
+  </mj-section>
+</mj-wrapper>

@@ -1,8 +1,4 @@
-<mj-wrapper
-  padding-top="40px"
-  padding-bottom="64px"
-  background-color="#ffffff"
->
+<mj-wrapper padding-top="40px" padding-bottom="64px" background-color="#ffffff">
   <mj-section>
     <mj-column>
       <mj-text mj-class="section-title" padding-bottom="20px">
@@ -36,7 +32,7 @@
           <td style="text-align: right">
             <a
               class="book-link"
-              href="https://www.mollat.com/livres/2477580/manon-gauthier-les-pieces-manquantes"
+              href="https://www.station-ausone.com/dossiers/escape-game-geant-trone-de-fer-le-31-octobre-2020"
             >
               Lire
             </a>
@@ -69,7 +65,7 @@
           <td style="text-align: right">
             <a
               class="book-link"
-              href="https://www.mollat.com/livres/2477580/manon-gauthier-les-pieces-manquantes"
+              href="https://www.mollat.com/dossiers/le-chat-deambule-a-bordeaux"
             >
               Lire
             </a>

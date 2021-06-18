@@ -3,13 +3,8 @@
     <mj-include path="./partials/mj-fonts.mjml" />
 
     <mj-attributes>
-      <mj-all
-        font-family="Lato, sans-serif"
-        font-size="14px"
-      />
-      <mj-button
-        padding="0"
-      />
+      <mj-all font-family="Lato, sans-serif" font-size="14px" />
+      <mj-button padding="0" />
 
       <mj-include path="./partials/mj-classes.mjml" />
 
@@ -21,27 +16,14 @@
         color="#001689"
         padding="6px 12px"
       />
-      <mj-section
-        full-width="full-width"
-        padding="0 16px"
-      />
+      <mj-section full-width="full-width" padding="0 16px" />
       <mj-table padding="0" />
-      <mj-text
-        padding="0"
-        line-height="1.3"
-      />
-      <mj-wrapper
-        full-width="full-width"
-        padding="0"
-      />
+      <mj-text padding="0" line-height="1.3" />
+      <mj-wrapper full-width="full-width" padding="0" />
     </mj-attributes>
 
     <mj-style inline="inline">
-      .book-link {
-        font-weight: 700;
-        color: #001689;
-        text-decoration: none;
-      }
+      .book-link { font-weight: 700; color: #001689; text-decoration: none; }
     </mj-style>
   </mj-head>
 
@@ -49,11 +31,13 @@
     <mj-include path="./sections/header.mjml" />
     <mj-include path="./sections/hello.mjml" />
     <mj-include path="./sections/loved-books.mjml" />
-    <mj-include path="./sections/shifted-cards.mjml" />
+    <mj-include path="./sections/advices.mjml" />
     <mj-include path="./sections/separator.mjml" />
     <mj-include path="./sections/current-books.mjml" />
     <mj-include path="./sections/separator.mjml" />
+    <mj-include path="./sections/events.mjml" />
+    <mj-include path="./sections/separator.mjml" />
     <mj-include path="./sections/thanks.mjml" />
-    <mj-include path="./sections/features.mjml" />   
+    <mj-include path="./sections/features.mjml" />
   </mj-body>
 </mjml>
