@@ -37,6 +37,8 @@
     <mj-include path="./sections/separator.mjml" />
     <mj-include path="./sections/events.mjml" />
     <mj-include path="./sections/separator.mjml" />
+    <mj-include path="./sections/meets.mjml" />
+    <mj-include path="./sections/separator.mjml" />
     <mj-include path="./sections/thanks.mjml" />
     <mj-include path="./sections/features.mjml" />
   </mj-body>
