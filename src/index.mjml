@@ -33,6 +33,7 @@
 
   <mj-body width="352px">
     <mj-include path="./sections/header.mjml" />
+    <mj-include path="./sections/hero.mjml" />
     <mj-include path="./sections/hello.mjml" />
     <mj-include path="./sections/loved-books.mjml" />
     <mj-include path="./sections/advices.mjml" />
