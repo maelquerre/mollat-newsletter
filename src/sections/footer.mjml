@@ -1,0 +1,103 @@
+<mj-wrapper padding="34px 10px 12px 10px" background-color="#001689">
+  <mj-section>
+    <mj-column width="80px">
+      <mj-image src="./assets/images/logo-mollat-white.png" align="left" />
+    </mj-column>
+  </mj-section>
+  <mj-section>
+    <mj-column padding-top="16px">
+      <mj-table>
+        <tr align="center">
+          <td>
+            <a
+              href="https://www.instagram.com/librairie_mollat"
+              class="social-media-icon"
+            >
+              <img src="./assets/images/icon-instagram.png" />
+            </a>
+            <a
+              href="https://www.youtube.com/user/LibrairieMollat"
+              class="social-media-icon"
+            >
+              <img src="./assets/images/icon-youtube.png" />
+            </a>
+            <a
+              href="https://twitter.com/librairiemollat"
+              class="social-media-icon"
+            >
+              <img src="./assets/images/icon-twitter.png" />
+            </a>
+            <a
+              href="https://fr-fr.facebook.com/Librairiemollat/"
+              class="social-media-icon"
+            >
+              <img src="./assets/images/icon-facebook.png" />
+            </a>
+          </td>
+        </tr>
+      </mj-table>
+    </mj-column>
+  </mj-section>
+  <mj-section>
+    <mj-column padding-top="16px">
+      <mj-table>
+        <tr align="center">
+          <td>
+            <a href="https://www.mollat.com/contact" class="footer-link">
+              Contact
+            </a>
+            <span class="footer-link__separator">/</span>
+            <a
+              href="https://www.mollat.com/qui-sommes-nous"
+              class="footer-link"
+            >
+              L'équipe
+            </a>
+            <span class="footer-link__separator">/</span>
+            <a href="https://www.mollat.com/cgv" class="footer-link"> CGV </a>
+            <span class="footer-link__separator">/</span>
+            <a
+              href="https://www.mollat.com/plan-d-acces-et-horaire#acces"
+              class="footer-link"
+            >
+              Accès
+            </a>
+            <span class="footer-link__separator">/</span>
+            <a
+              href="https://www.mollat.com/plan-d-acces-et-horaire#horaires"
+              class="footer-link"
+            >
+              Horaires
+            </a>
+          </td>
+        </tr>
+      </mj-table>
+    </mj-column>
+  </mj-section>
+  <mj-section>
+    <mj-column padding-top="16px">
+      <mj-table>
+        <tr align="center">
+          <td>
+            <a
+              href="https://www.mollat.com"
+              class="footer-link paddding--right--1"
+            >
+              Modifier ses préférences de newsletter
+            </a>
+            <a href="https://www.mollat.com" class="footer-link">
+              Se désabonner
+            </a>
+          </td>
+        </tr>
+      </mj-table>
+    </mj-column>
+  </mj-section>
+  <mj-section>
+    <mj-column padding-top="16px">
+      <mj-text color="white" font-size="12px" align="center">
+        Copyright © 2021 - Mollat. Tous droits réservés.
+      </mj-text>
+    </mj-column>
+  </mj-section>
+</mj-wrapper>
