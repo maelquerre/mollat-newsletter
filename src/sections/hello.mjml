@@ -8,13 +8,13 @@
       mj-class="section-title"
       padding-bottom="20px"
     >
-      Bonjour {{ name }},
+      Bonjour Maylis,
     </mj-text>
 
     <mj-text mj-class="paragraph">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam.
+      Nous vous présentons notre newsletter trimestrielle. En ce mois de juin
+      nous vous présentons les dernières nouveautés et événements de la
+      librirairie. Profitez des derniers coups de coeurs de nos libraires.
     </mj-text>
   </mj-column>
 </mj-section>
