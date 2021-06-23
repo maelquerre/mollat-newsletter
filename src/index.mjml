@@ -24,11 +24,17 @@
 
     <mj-style inline="inline">
       .book-link { font-weight: 700; color: #001689; text-decoration: none; }
+      .footer-link { text-transform: none; text-decoration: underline;
+      font-size: 12px; color: #FFFFFF;} .footer-link__separator { font-size:
+      12px; color: white;} .social-media-icon { padding-left: 11px; }
+      .paddding--right--1 { padding-right: 16px } .love-image { width: 94px;
+      height: 94px;}
     </mj-style>
   </mj-head>
 
   <mj-body width="352px">
     <mj-include path="./sections/header.mjml" />
+    <mj-include path="./sections/hero.mjml" />
     <mj-include path="./sections/hello.mjml" />
     <mj-include path="./sections/loved-books.mjml" />
     <mj-include path="./sections/advices.mjml" />
@@ -41,5 +47,6 @@
     <mj-include path="./sections/separator.mjml" />
     <mj-include path="./sections/thanks.mjml" />
     <mj-include path="./sections/features.mjml" />
+    <mj-include path="./sections/footer.mjml" />
   </mj-body>
 </mjml>

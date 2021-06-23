@@ -1,0 +1,7 @@
+<mj-wrapper padding="0" background-color="#FFFFFF">
+  <mj-section>
+    <mj-column>
+      <mj-image src="./assets/images/hero.png" />
+    </mj-column>
+  </mj-section>
+</mj-wrapper>
