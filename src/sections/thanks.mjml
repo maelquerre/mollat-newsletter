@@ -9,7 +9,7 @@
         mj-class="section-title"
         padding-bottom="20px"
       >
-        Merci {{ name }}
+        Merci Maylis
       </mj-text>
     </mj-column>
 
