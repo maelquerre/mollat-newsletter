@@ -1,7 +1,7 @@
 <mj-wrapper padding="34px 10px 12px 10px" background-color="#001689">
   <mj-section>
     <mj-column width="80px">
-      <mj-image src="./assets/images/logo-mollat-white.png" align="left" />
+      <mj-image src="https://imagizer.imageshack.com/img924/3716/h4o6JF.png" align="left" />
     </mj-column>
   </mj-section>
   <mj-section>
@@ -13,25 +13,25 @@
               href="https://www.instagram.com/librairie_mollat"
               class="social-media-icon"
             >
-              <img src="./assets/images/icon-instagram.png" />
+              <img src="https://imagizer.imageshack.com/img924/8440/WFG0XQ.png" />
             </a>
             <a
               href="https://www.youtube.com/user/LibrairieMollat"
               class="social-media-icon"
             >
-              <img src="./assets/images/icon-youtube.png" />
+              <img src="https://imagizer.imageshack.com/img924/6459/F6oXrb.png" />
             </a>
             <a
               href="https://twitter.com/librairiemollat"
               class="social-media-icon"
             >
-              <img src="./assets/images/icon-twitter.png" />
+              <img src="https://imagizer.imageshack.com/img924/9210/mCAZPB.png" />
             </a>
             <a
               href="https://fr-fr.facebook.com/Librairiemollat/"
               class="social-media-icon"
             >
-              <img src="./assets/images/icon-facebook.png" />
+              <img src="https://imagizer.imageshack.com/img922/581/ZKRLi8.png" />
             </a>
           </td>
         </tr>
